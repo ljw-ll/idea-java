@@ -16,9 +16,11 @@ public class ex2Operator {
      */
     public static void demo1() {
         short s = 1;
-        s += 1;
+        s += 1;    // 自带强制转换   s=(short)(s+1);
         System.out.println(s);
 
+        short m=1;
+    //    m=m+1;  报错
 
         short a = 5;
         short b = 8;
