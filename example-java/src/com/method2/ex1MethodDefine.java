@@ -1,4 +1,4 @@
-package com.method;
+package com.method2;
 
 public class ex1MethodDefine {
     public static void main(String[] args) {

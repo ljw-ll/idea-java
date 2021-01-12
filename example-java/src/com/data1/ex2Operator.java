@@ -1,4 +1,4 @@
-package com.data;
+package com.data1;
 
 public class ex2Operator {
 

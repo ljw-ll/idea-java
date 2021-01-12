@@ -1,4 +1,4 @@
-package com.array;
+package com.array3;
 
 public class ex1ArrayDefine {
     public static void main(String[] args) {
