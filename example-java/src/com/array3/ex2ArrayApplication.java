@@ -12,6 +12,7 @@ public class ex2ArrayApplication {
         System.out.println("-----------------------");
         array=ArrayReturn(1,2);
         printArray(array);
+        
     }
 
 
