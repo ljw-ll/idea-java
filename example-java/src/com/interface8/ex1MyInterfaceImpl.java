@@ -1,4 +1,4 @@
-package interface8;
+package com.interface8;
 
 public class ex1MyInterfaceImpl implements ex1MyInterface {
 

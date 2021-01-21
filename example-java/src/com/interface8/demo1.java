@@ -1,4 +1,4 @@
-package interface8;
+package com.interface8;
 
 public class demo1 {
     public static void main(String[] args) {
