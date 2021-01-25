@@ -4,6 +4,7 @@ public class zi extends fu{
 
     int num=20;
 
+
     public void method(){
         System.out.println("子类方法");
     }
