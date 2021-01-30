@@ -7,7 +7,8 @@ import java.util.function.ToIntFunction;
 public class ex5ArraySort {
     public static void main(String[] args) {
         Integer[] arr = new Integer[]{3, 4, 1, 5, 2};
-
+//        Arrays.sort(arr);   //从小到大
+//        System.out.println(Arrays.toString(arr));
         //bubbleSort1(arr);
 
         sort1(arr);
