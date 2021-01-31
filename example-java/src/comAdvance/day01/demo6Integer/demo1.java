@@ -30,5 +30,6 @@ public class demo1 {
 
       /*  int a = Integer.parseInt("a");//NumberFormatException
         System.out.println(a);*/
+
     }
 }
