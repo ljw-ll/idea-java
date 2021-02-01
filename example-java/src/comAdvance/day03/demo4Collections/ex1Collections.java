@@ -26,8 +26,8 @@ public class ex1Collections {
 
 
      //   demo1();      // 默认 升序排序
-       demo2();     //  自定义的 Person 类  实现  Comparable 接口 排序
-    //    demo3();       // 使用Comparator  排序
+         demo2();     //  自定义的 Person 类  实现  Comparable 接口 排序
+        demo3();       // 使用Comparator  排序
 
     }
 
@@ -59,6 +59,7 @@ public class ex1Collections {
             public int compare(Student o1, Student o2) {
                 if(o1.getAge()!=o2.getAge())
                 return o1.getAge()-o2.getAge();
+
                 else return o1.getName().charAt(0)-o2.getName().charAt(0);
             }
         });
