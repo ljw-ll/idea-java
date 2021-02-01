@@ -43,6 +43,6 @@ public class Person implements  Comparable<Person>{
         //return 0;//认为元素都是相同的
         //自定义比较的规则,比较两个人的年龄(this,参数Person)
         //return this.getAge() - o.getAge();//年龄升序排序
-        return o.getAge() - this.getAge();//年龄升序排序
+        return o.getAge() - this.getAge();//年龄降序排序
     }
 }
